@@ -1,5 +1,5 @@
 # React Hoarder
-> You are a hoarder. But not just any hoarder. You are a arrogant hoarder who wants to show off all of the stuff you hoard. You want an application that gives you a list of anything possible to hoard, and add them to your own personal collection as you acquire them. 
+> You are a hoarder. But not just any hoarder. You are an arrogant hoarder who wants to show off all of the stuff you hoard. You want an application that gives you a list of anything possible to hoard, and add them to your own personal collection as you acquire them. 
 
 ### Requirements
 As a user, if I go to the application and I am not logged in, I should see a login or register page.
