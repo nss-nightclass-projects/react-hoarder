@@ -13,3 +13,5 @@ On the "all the stuff" page, each item should have a button that allows me to ad
 On the "my stuff" page, each item should have a button that allows me to delete it from "my stuff." 
 On the "my stuff" page, I should be able to click on an item and see a full page version of it. This should bring the user to a new route. 
 
+### Data
+[Use this JSON file to seed your "allStuff" collection in Firebase.]("./allStuff.json")
