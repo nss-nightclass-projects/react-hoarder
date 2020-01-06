@@ -17,10 +17,10 @@ As a user, when I click the logout button in the navbar I should be logged out a
 ## User Stories - Routing
 As a user if I click the home link in the navbar, I should navigate to '/home'  and see an h1 tag that says 'Home'.
 
-As a user if I click the New link in the navbar, I should navigate to '/new'  and see an h1 tag that says 'New Stuff'.
+As a user if I click the New link in the navbar, I should navigate to '/stuff/new'  and see an h1 tag that says 'New Stuff'.
 
 As a user if I click the My Stuff link in the navbar, I should navigate to '/stuff'  and see an h1 tag that says 'My Stuff' and two buttons - on that says Edit and one that says Single.
 
-As a user when I click the Edit button on the My Stuff page I should be redirect to '/edit/12345' and I should see an h1 tag that says 'Edit';
+As a user when I click the Edit button on the My Stuff page I should be redirect to '/stuff/12345/edit' and I should see an h1 tag that says 'Edit';
 
 As a user when I click the Single button on the My Stuff page I should be redirect to '/stuff/12345' and I should see an h1 tag that says 'Single Stuff';
