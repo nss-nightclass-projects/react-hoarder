@@ -3,8 +3,8 @@
 ## User Stories
 
 ### CREATE
-* As a user, when I click New in the navbar I should be taken to the '/new' page where I should see a form for adding new items.
-* As a user, when I add in details and hit save on the '/new' page my item should save to firebase and I should be redirected to '/stuff'.
+* As a user, when I click New in the navbar I should be taken to the '/stuff/new' page where I should see a form for adding new items.
+* As a user, when I add in details and hit save on the '/stuff/new' page my item should save to firebase and I should be redirected to '/stuff'.
 
 ### READ
 * As a user, when I navigate to the /stuff route, I should see a "My Stuff" page. This page should have a list of all of the items I have hoarded.
