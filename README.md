@@ -9,4 +9,4 @@
 ## Assignment Parts
 
 * [Part1 - authentication and routing](./part1.md)
-* [Part2 - CRUD on items](./part1.md)
+* [Part2 - CRUD on items](./part2.md)
